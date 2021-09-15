@@ -41,7 +41,7 @@ Skills
 
 **Programming languages:**
 
-С, С++, Java, JS, HTML, CSS, MySQL, Pascal
+С, С++, Java, JS, HTML, CSS, MySQL, ReactJS
 
 **Development environment**
 
@@ -132,6 +132,7 @@ return: the firstname of the participant whose rank is n (ranks are numbered fro
 *  Binary studio academy
 *  OOP course at the University
 *  CodeWars 45+ task
+*  RsSchool
 
 Foreign language
 ----------------------------------------
